@@ -8,4 +8,7 @@ package jia.begins.examples.basics.georgi.stoychev;
  * To change this template use File | Settings | File Templates.
  */
 public class Exercise1 {
+    public static void main(String[] args) {
+
+    }
 }
